@@ -1,4 +1,4 @@
-# Examples of bash commands used to train the configurations mentioned in the paper:
+# Examples of bash commands used to train the configurations:
 # ================================
 # HyperSTARCOP mag1c + rgb
 
